@@ -1,0 +1,6 @@
+puts "hello world"
+my_name = "ragul"
+my_age = "23"
+puts "I am #{my_name}"
+puts "I am #{my_age} old"
+puts "The End"
